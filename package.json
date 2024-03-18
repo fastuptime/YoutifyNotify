@@ -1,0 +1,33 @@
+{
+  "name": "youtify-notify",
+  "version": "1.0.0",
+  "description": "Youtify notification service",
+  "main": "./src/main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "youtify",
+    "notification",
+    "youtube",
+    "alert",
+    "service",
+    "fastuptime",
+    "fast",
+    "youtube-alert",
+    "youtube-notification"
+  ],
+  "author": "Can <fastuptime@gmail.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fastuptime/youtify-notify"
+  },
+  "bugs": {
+    "url": "https://github.com/fastuptime/youtify-notify/issues"
+  },
+  "dependencies": {
+    "request-promise": "^4.2.6",
+    "stardb": "^1.2.1"
+  }
+}
